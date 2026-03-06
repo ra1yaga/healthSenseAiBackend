@@ -3,3 +3,7 @@
 # azure-monitor-opentelemetry 
 
 azure-functions
+openai>=1.40.0
+azure.identity
+httpx>=0.24.0
+python-dotenv>=1.0.0
